@@ -1,2 +1,2 @@
 # 24k-0709
-This is my repository for lab task 2. 
+## Hello! My name is Ahmed and I'm studying computer science at fast while living my dream.
