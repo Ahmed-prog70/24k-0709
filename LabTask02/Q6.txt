@@ -1,0 +1,16 @@
+Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+1.Assign the months following numbers:
+  January = 1
+  February = 2
+  March = 3
+  April = 4
+  May = 5
+  June = 6
+  July = 7
+  August = 8
+  September = 9
+  October = 10
+  November = 11
+  December = 12
+2.Ask the user to enter a number from 1 to 12.
+3.Display the assigned month for that number.
