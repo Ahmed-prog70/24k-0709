@@ -10,14 +10,14 @@ int main(){
             break; 
     }
     else {
-        int a = 0, b = 1, nextTerm = 0;
+        int a = 0, b = 1, next = 0;
 
         printf("Fibonacci series up to %d:\n", n);
         while (a <= n) {
             printf("%d ", a);  
-            nextTerm = a + b;  
+            next = a + b;  
             a = b;             
-            b = nextTerm;
+            b = next;
         }
     printf(" prime number");
     break;}
