@@ -53,7 +53,7 @@ int main() {
     if (acc1 > acc2) {
         cout << "Ahmed has more balance than Zain." << endl;
     } else {
-        cout << "Zain has less balance than Zain." << endl;
+        cout << "Ahmed has less balance than Zain." << endl;
     }
 
     cout << "Final Account Details:" << endl;
